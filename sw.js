@@ -1,6 +1,6 @@
 // Service worker de RBL 27: deja el juego guardado en el celular.
 // 20261114200029 y ["./", "apple-touch-icon.png", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "index.html", "manifest.webmanifest"] los completa build.py en cada build (así las actualizaciones llegan solas).
-const VERSION = '20261114200029';
+const VERSION = '20261114200030';
 const CACHE = 'rbl27-' + VERSION;
 const FILES = ["./", "apple-touch-icon.png", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "index.html", "manifest.webmanifest"];
 
